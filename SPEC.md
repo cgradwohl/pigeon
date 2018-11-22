@@ -1,4 +1,4 @@
-# An uptime monitor allows users to enter URLs they want to monitored, and recieve alerts when the resources "come back up" or "go down". These alerts will come as SMS.
+# An uptime monitor allows users to enter URLs they want to monitored, and receive alerts when the resources "come back up" or "go down". These alerts will come as SMS.
 
 1. API listens on a port to GET POST DELETE HEAD
 
