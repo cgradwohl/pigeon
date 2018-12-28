@@ -1,0 +1,1 @@
+{"check":{"id":"dfg3ob1bm19ynkrq4jx1","userPhone":"6505449054","protocol":"http","url":"administrative.ui-alpha2.aviso.com","method":"get","successCodes":[200,201,301,302],"timeoutSeconds":3,"state":"up","lastChecked":1545967897363},"outcome":{"error":false,"responseCode":301},"state":"up","alert":false,"time":1546021945027}
